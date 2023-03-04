@@ -9,6 +9,9 @@ import UIKit
 
 class HomeScreenViewController: UIViewController {
 
+    
+    
+    
     @IBOutlet weak var fundoHomeImageView: UIImageView!
     @IBOutlet weak var fundoHomePrincipalImageView: UIImageView!
     
